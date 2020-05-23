@@ -12,9 +12,9 @@ paginate     = 10
 
   # Subtitle for home
   homeSubtitle = "Working at Cybersecurity for fun and profit"
-
+  path = "/img/your-example-logo.svg"
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
+  disableReadOtherPosts = true
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"
@@ -23,6 +23,23 @@ paginate     = 10
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
+
+
+  # Social icons
+   [[params.social]]     
+      name = "twitter"    
+      url  = "https://twitter.com/tomride"
+
+   [[params.social]]     
+      name = "email"     
+      url  = "mailto:tomride@protonmail.com"
+   [[params.social]]
+      name = "github"
+      url  = "https://github.com/tomride"
+
+   [[params.social]]
+      name = "linkedin"
+      url  = "https://www.linkedin.com/in/tomas-mu%C3%B1oz-26a5643/"
 
 [taxonomies]
     category = "blog"
@@ -46,7 +63,7 @@ paginate     = 10
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
-#  [[menu.main]]
+  [[menu.main]]
 #    identifier = "blog"
 #    name       = "Blog"
 #    url        = "/posts"
