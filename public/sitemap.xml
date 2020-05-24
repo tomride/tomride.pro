@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/blog/</loc>
+    <loc>tomride.pro/</loc>
   </url>
   
   <url>
-    <loc>localhost/</loc>
+    <loc>tomride.pro/blog/</loc>
   </url>
   
   <url>
-    <loc>localhost/series/</loc>
+    <loc>tomride.pro/series/</loc>
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>tomride.pro/tags/</loc>
   </url>
   
 </urlset>
