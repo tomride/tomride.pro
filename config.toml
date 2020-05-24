@@ -17,7 +17,7 @@ paginate     = 10
   disableReadOtherPosts = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "Cybersecurity, professional, jobs"
   keywords = "homepage, blog"
   images = [""]
 
@@ -49,7 +49,7 @@ paginate     = 10
 [languages]
   [languages.en]
 #    title = "Tomas Muñoz"
-    subtitle = "A simple theme for Hugo"
+    subtitle = "Cybersecurity and System Administration"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
